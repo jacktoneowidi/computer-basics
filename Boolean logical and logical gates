@@ -1,0 +1,13 @@
+-Binary- a system in which information can be expressed by combinations of the digits  0 and 1.
+-In computers an on state when electricity is flowing represents true.the off statement on electricity flowing represents false.
+
+-Boolean algebra - a branch of algebra that deals with boolean values true and false.
+-Three fundamentals operations in boolean algebra
+
+   * Not 
+   * And
+   * Or
+-Not takes a single boolean values true or false.
+-And boolean input takes two inputs and has a single output 
+-Or gate - digital logic gate with two or more inputs and one output that logical operation.
+-Exclusive Or - special type of binary operator that is used in logic, electronics  
