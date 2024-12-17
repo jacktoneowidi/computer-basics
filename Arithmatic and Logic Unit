@@ -1,1 +1,16 @@
+-Cpu - central processing unit.
+-The Arithmetic and Logic Unit (ALU) is considered the "mathematical brain" of a computer, performing essential computations like addition and subtraction. 
+ Understanding the ALU's design and function is crucial for comprehending modern computerss.
+-constructing a simple ALU circuit using Boolean logic gates, specifically the Intel 74181, a notable early ALU that fit fully on a single chipss.
+The ALU is divided into an arithmetic unit and a logic unit, starting with the arithmetic unit, which handles numerical operations like additions.
+
+Logic Unit of the ALU
+
+-The ALU also incorporates a Logic Unit for logical operations like AND, OR, and NOT, along with numerical testss.
+-A circuit example checks if an ALU output is zero utilizing OR and NOT gatess.
+
+Complex ALUs and Operation Codes
+
+The Intel 74181 is a 4-bit ALU; however, the constructed 8-bit ALU is more capable. A 4-bit operation code determines which operation the ALU performs, such as addition or subtractionss.
+ALUs output flags, including Zero, Negative, and Overflow flags, which track specific states during operations and informs the processor about conditions like equality and overflows.
 
