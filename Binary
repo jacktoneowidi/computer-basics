@@ -1,1 +1,20 @@
-A single binary value can be used to represent numbers 1 and 0
+-A single binary value can be used to represent numbers 1 and 0. 
+-Bit - is the smallest unit of measurement used to quantify computer data.
+-Byte - a group of 8 bytes.  
+-Binary values, 1 and 0, can be used to represent larger numbers beyond just these two statess.
+-In binary (base-two), each column represents multipliers that are two times larger than the previous column, unlike decimal (base-ten) where they are ten times larger.
+
+Bytes and Data Sizes
+
+-A byte, consisting of 8 bits, can represent 256 different values (ranging from 0 to 255)
+-Various data sizes (kilobytes, megabytes, gigabytes, etc.) highlight the scale of digital information, noting that a kilobyte traditionally equals 1024 bytes in binarys.
+
+Bit Architecture
+-32-bit and 64-bit systems denote the capacity of computers to process numbers, with 64-bit systems being able to represent much larger values (up to around 9.2 quintillion).
+
+Floating Point Representation
+-Floating point numbers, used to represent decimals, are commonly stored using the IEEE 754 standard, which is similar to scientific notations.
+
+ASCII and Unicode
+-ASCII is a 7-bit code developed to encode letters and symbols efficiently, allowing basic text representation and interoperabilitys.
+-While ASCII was sufficient for English, its limitation became apparent with non-Latin scripts, leading to the development of Unicode
