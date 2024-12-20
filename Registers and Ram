@@ -1,0 +1,19 @@
+  Ram - Random access memory.
+Ram is discussed as a temporary storage solution that holds information like gam states 
+while power is on.
+
+Building simple memory circuits
+Two types of circuits are explored 
+   1) using an OR gatethat permarnently records a 1 and another with an AND gate 
+      records a 0 resulting into a latch.
+
+Latches - Are digital circuits that store a single bit of information and hold its value
+          until it is updated by new input signals.
+A gated latch is introduced that allows for a single data wire and a write enable line to 
+control data entry.
+
+Registers and Latches
+By linking eight latches together, an 8-bit register can be formed with each latch represents a bit of a number.
+
+Addressing Memory with gridd and multiplexers
+The matrix structure enabled easy selection of individual latches using row and column wires, controlled by AND gates.
