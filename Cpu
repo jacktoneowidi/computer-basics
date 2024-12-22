@@ -10,3 +10,29 @@ The cpu executes programs made up of individual operations called instructions s
 Memory and Instructions
 he design includes a RAM module with 16 memory locations and four 8-bit registers (A, B, C, D).
 
+
+CPU Operations
+We have three phases in cpu cycle;
+They include; 
+1. Fetch
+2. Decode
+3. Execute Cycle
+
+Fetch phase
+ - fetch phase, where the Instruction Address Register retrieves the current instruction from RAM.
+
+Decode phase
+
+ - decode phase interprets the fetched instruction with the opcode indicating the specific operation, which is recognized by the Control Unit using logic gates.
+Execute phase
+ - execute phase carries out the instruction, involving data retrieval from RAM, manipulation within registers, and use of the ALU as necessary.
+
+Control Unit and Clock
+
+
+The clock generates regular electrical signals to synchronize CPU operations, defining the clock speed measured in Hertz.
+The first chip CPU, the Intel 4004, released in 1971, had a clock speed of 740 Kilohertz.
+Modern CPUs operate at speeds in gigahertz (billions of cycles per second), significantly outperforming early models.
+Overclocking increases CPU speed but can lead to overheating or errors; underclocking is beneficial for energy efficiency.
+
+
