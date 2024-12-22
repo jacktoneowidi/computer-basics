@@ -1,1 +1,12 @@
+Central processing unit - cpu , thecomputers heart.
+
+Components of a cpu
+1.Alu - Arithmetic logic unit.
+2.Registers.
+3.Ram.
+
+The cpu executes programs made up of individual operations called instructions such as addition  or memory read and write.
+
+Memory and Instructions
+he design includes a RAM module with 16 memory locations and four 8-bit registers (A, B, C, D).
 
