@@ -9,7 +9,7 @@ RAM holds both instructions and data in a binary format.
  Basic operations include loading values into registers, performing arithmetic operations like adding, subtracting.
 
 
-             Looping,Infinite Loops
+            
              Real-World CPU Example
 the Intel 4004, released in 1971, was the first single-chip CPU supporting 46 instructions, laying the groundwork for future processors.
 modern processors, such as the Intel Core i7, feature thousands of instructions and variants, reflecting significant advancements in technology and design.
