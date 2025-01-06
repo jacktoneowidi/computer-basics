@@ -15,7 +15,7 @@ CPU Operations
 We have three phases in cpu cycle;
 They include; 
 1. Fetch
-2. Decode
+2. Decode.
 3. Execute Cycle
 
 Fetch phase
