@@ -1,0 +1,22 @@
+Evolution of Programming Language
+ - Early programming  it involved writing entire programs in machine code, which was cumbersome and required manual translation into binarys.
+ - Programmers developed assembly languages as a higher-level alternative, allowing for mnemonic instructions instead of raw binary, such as "LOAD_A 14"s.
+ - An assembler translates assembly code into machine code, relieving programmers from some of the complexities of coding directly in binarys.
+
+
+
+the first compiler.
+ - Grace Hopper contributed significantly to programming by developing the first compiler in 1952, allowing for high-level programming languages to be translated into machine codes.
+
+- fortran allowed programmers to write significantly shorter and more manageable code compared to assembly languages.
+
+
+Impact on Computing Accessibility
+
+- The development of high-level programming languages democratized computing, enabling a broader range of professionals to utilize and incorporate computation in their works.
+- As programming languages evolved, new features and abstractions led to more sophisticated software development, requiring far fewer lines of codes.
+
+Progration of programming languages
+
+- the progression of programming languages over decades, from ALGOL, LISP, and BASIC in the 1960s to modern languages like Python and Swift.
+- visions of programming include the possibility of natural language processing systems that could interpret plain English instructions from users, though this remains a concept on the horizons.
