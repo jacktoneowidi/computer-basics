@@ -1,0 +1,23 @@
+Introduction to Programming Languages
+- Programming languages were developed to abstract low-level machine code details, allowing programmers to focus on problem-solving.
+
+Basic Statements and Variables
+- Programming statements are complete thoughts, similar to sentences in spoken languages; for example, "A equals 5" is an assignment statements.
+
+
+- Variables can be named anything, but best practices suggest naming them in a meaningful way.
+Control Flow Statements.
+
+- Control Flow Statements allow the program to move beyond linear execution. The most common are If Statements, structured as if X is true, then do y.
+- If Statements can be combined with ELSE statements also.
+
+Loops, While and For loops
+ - while loop allows the repeated execution of code while a certain condition remains true, which can be used for tasks like restocking items in a game.
+-For loops are count-controlled, executing a block of code a specific number of times making them uesful in repeating tasks.
+
+
+functions
+
+-functions allow for the encapsulation of code, letting programmers call the function name to execute complex logic without altering its internal workingss.
+- they can take parameters and return results, significantly improving code modularity and readabilitys.
+
