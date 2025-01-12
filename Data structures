@@ -1,1 +1,26 @@
-arra
+arrays- series of values stored in memory index.
+
+- arrays are extrmely versertile data structures, used all the time and so there are many functions 
+  that can handle them to do useful thinggs.
+- arrays can be easily sorted using built-in functions present in most programming languages
+
+
+Strings
+- Strings are special types of arrays that store characters, ending with a null character (binary 0) to indicate termination.
+
+Matrices
+- Matrices are essentially arrays of arrays, allowing for two-dimensional data storage, such as gridsss.
+
+
+
+Structs
+- Structs allow for bundling related variables into a single compound data structure, useful for managing multiple pieces of information togetherss.
+- Arrays of structs can be created, but they have fixed sizes
+
+
+Trees
+- Trees structure data with nodes containing pointers to children, forming hierarchy, with terminology like root, parent, and leaf nodesss.
+ - Binary trees have nodes with up to two children, but variations exist for trees with more
+
+Graphs
+- Graphs allow for connections between nodes without inherent parent-child relationships, providing flexible data mappin
