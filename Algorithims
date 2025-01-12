@@ -1,1 +1,12 @@
+Algorithim - set by set instructions of solving a particular problem.
+- The term "algorithm" originates from the Persian polymath Muḥammad ibn Mūsā al-Khwārizmī, one of the fathers of algebras.
 
+Sorting algorithms.
+- Sorting is a fundamental problem in computer science, essential in various applications, from finding airfare to organizing contacts
+ - Selection Sort is introduced as a basic sorting algorithm that involves scanning the array for the smallest number and swapping it into the correct position.
+- Merge Sort is presented as a more efficient sorting algorithm with a complexity of N times the Log of N, which significantly optimizes performance on larger datasetss.
+- complexity of Selection Sort is demonstrated as N squared, indicating that as the array size increases, the running time increases dramatically
+
+
+- Dijkstra's algorithm is described as a classic solution for finding the shortest path in a graph, initially working by exploring nodes with the lowest known cost.
+ - Dijkstra's algorithm is utilized in real-world applications, such as finding routes on Google Map
