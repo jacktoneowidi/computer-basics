@@ -1,1 +1,40 @@
 
+software engineering – computer science branch that deals with the systematic designs, testing, developing and maintaining of software.
+
+Computer programming – also referred to as coding. the process of creating a set of instructions that a computer can follow to perform specific tasks.
+
+
+Object oriented programing 
+
+ Breaking large programs into smaller functions allows multiple programmers to work on different parts simultaneously. 
+
+
+Documentation  and apis
+ Api- application programmable interface they are essential for collaboration among programmers, ensuring that functions
+ and other components can be used without needing to understand their implementation in detail.
+
+ different programming teams can collaborate, providing controlled access to functions within a codebase
+
+Integrated Development Environments IDEs.
+-intergrated development enviroment.
+ are specialized tools for programming that provide features like error checking, code navigation, and organization, 
+ enhancing the coding process.
+
+-they aid in the testing and debugging.
+
+Source Control and Collaboration
+ -Source Control systems manage code versions, allowing teams to check out and modify code safely while keeping the main repository.
+ -Tracking changes is critical for collaboration; it allows teams to avoid conflicts and revert to stable versions if bugs arise
+
+
+Quality Assurance and Testing
+quality assuarance is the process whre a dedicated team test software to identify and fix bugs
+
+
+
+
+
+
+
+
+
