@@ -1,1 +1,28 @@
+flies and files system.
+
+
+Files are collections of data that can contain various types of content such as text, music, and images.
+
+file formats.
+-file formats are essential for organizing data, and common standards include JPEG and MP3.
+-plain text files (TXT) store data as binary numbers, decoded using ASCIIss.
+-wAV files, which contain audio use metadata to explain the accompanying data and sound amplitudess.
+-bitmap files (BMP) store pictures by breaking images into pixels with RGB values that define colors
+
+
+Structure of File Systems
+-File Systems manage how files are stored on storage devices, utilizing Directory Files to record file locations and
+ metadata.
+
+Modern File System Management.
+
+-modern File Systems store files in blocks to prevent overwriting and allow for modification without data los.
+-fragmentation occurs when files are stored across non-contiguous blocks, which can slow access times.
+-defragmentation can reorganize file storage for more efficient access.
+-moving files between directories can be done through modifying Directory Files without rearranging the underlying data.
+
+
+
+
+
 
