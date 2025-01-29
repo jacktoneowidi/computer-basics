@@ -1,1 +1,27 @@
+compurer memory and storage
 
+
+Computer memory is generally non-permanent (volatile). If power is lost, any data saved in memory is lost.
+Storage is non-volatile; data stays until it is overwritten or deleted
+
+
+early storage technology
+ -earliest forms of storage included paper punch cards, which allowed for the storage of data but were slow.
+- Magnetic core memory, introduced in the mid-1950s, used magnetic cores to store data and became the predominant random 
+  access memory technology for two decades.
+
+Development of Magnetic Tape and Drives
+Advancements in Storage Technologies
+-Hard disk drives further improved storage capabilities and became common by the 1970s, offering up to one terabyte of 
+ data.
+- Floppy disks were widely used for portable storage until the mid-90s
+- Optical storage technologies like CDs and DVDs emerged in the 1970s
+
+
+
+
+
+Modern Storage Solid State Drives.
+- first RAM integrated circuits appeared in 1972, paving the way for solid-state drives (SSDs) with no moving parts
+- SSDs have much faster access times compared to traditional hard drives, contributing to changing storage hierarchies in computers 
+  today
