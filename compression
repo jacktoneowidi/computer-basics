@@ -1,1 +1,26 @@
 
+compression
+
+- compression is the process of reducing tthe size of files to save stroage space and improve transmission speed.
+
+
+Types of Compression
+
+- lossless compression techniques allow the original data to be perfectly reconstructed from the compressed data
+
+Lossy Compression
+
+- lossy compression techniques discard some data, particularly information that is less perceptible to human sensess.
+-in audio compression, frequencies that humans cannot hear, such as ultrasonic sounds, can be removed to save spaces.
+
+- jPEG is a common lossy image format that reduces file size by discarding high-frequency spatial data that is less noticeable to the human eye
+
+
+Audio and Video Compression
+
+Compressed audio files, like MP3s, can be significantly smaller than uncompressed formats, allowing for more efficient storage and transmissions.
+Video compression takes advantage of temporal redundancy by not retransmitting unchanged pixels between frames, which can lead to significant reductions in file size
+
+Importance of Compression
+
+compression techniques are essential for efficiently storing and transmitting various types of data, including images, music, and videos.
