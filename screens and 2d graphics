@@ -1,1 +1,23 @@
+Screens and 2D Graphics
 
+-Screens are essential tools for visual interfaces in computing, evolving from simple displays to 
+ sophisticated technologies like lcd and oled.
+
+
+Pixels and Resolution
+
+-pixel short for picture element, represents the smallest unit of a digital image displayed on screenss.
+-Resolution is determined by the number of pixels displayed on a screen, affecting the clarity and detail of the image.
+
+
+-Computers represent colors through a combination of red, green, and blue (RGB), which allows for millions of
+ possible color combinations.
+
+
+
+2D Graphics Rendering
+
+2D graphics rendering involves converting shapes and images into pixels for display on screens, governed by
+coordinates on a grid.
+
+Technologies such as rasterization and vector graphics play significant roles in how images are generated and displayed.
