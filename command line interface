@@ -1,1 +1,27 @@
+- command line interface - cli
 
+
+-Early computing devices relied on mechanical controls for inputs and outputs, limiting human interaction to
+physical controls like gears and knobs.
+
+-The first electronic computers used large panels for configuration, which made programming time-consuming
+
+
+Keyboards
+
+-Keyboards became prominent as smaller computers became accessible for interactive human input, spearheading
+the transition towards more user-friendly interfaces.
+
+-The qwerty keyboard layout, created by Christopher Latham Sholes in 1868, became standard due to its commercial
+success and users’ reluctance to learn new layouts
+
+Screen-Based Interfaces
+
+-By the late 1970s, screen-based terminals replaced electromechanical teletype machines, facilitating a better user 
+experience with functionalities like error corrections.
+
+-The transition to screens maintained the text-only protocol from teletype machines, ensuring continuity in user 
+interaction despite technological advancements.
+
+-Command line interfaces remain powerful tools for programmers and are commonly used for remote server accesss.
+Modern operating systems, including Windows and macOS, still incorporate command line interfaces that users can explore.
