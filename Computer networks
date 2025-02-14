@@ -1,1 +1,27 @@
 
+introduction to computer networks
+
+
+- The internet revolutionized communication, allowing instant information exchange 
+  compared to the weeks it took for letters to travel historically.
+
+ -This transformation significantly boosted the global economy by enhancing
+  data transfer speeds through fiber optic cables.
+
+early computer networks
+The first computer networks emerged in the 1950s and 60s, primarily within organizations to facilitate faster and more reliable information exchange.
+Early networks allowed resource sharing, such as printers and storage drives, leading to the development of Local Area Networks.
+
+
+
+Ethernet, developed in the early 1970s, became the most successful LAN technology, connecting computers via a shared cable s .
+Each computer on an Ethernet network has a unique MAC address, allowing it to identify and process relevant data
+
+
+Collision Management
+
+- Ethernet employs Carrier Sense Multiple Access (CSMA) to manage data transmission and reduce collisions s .
+- In case of a collision, computers use an exponential backoff strategy to wait before retransmitting, which helps manage network traffic.
+
+Packet switching, developed during the Cold War, allows data to be divided into packets for efficient routing across networks.
+The ARPANET was the first packet-switching network, laying the groundwork for the modern internet.
