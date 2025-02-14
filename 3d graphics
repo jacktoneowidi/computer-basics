@@ -8,3 +8,15 @@ the transition from 2D to 3D graphics, emphasizing the need to render 3D objects
 The process of flattening 3D coordinates onto a 2D plane is known as 3D projection, with orthographic and perspective projections being common types s s .
 Perspective projection mimics how parallel lines converge in the real world, while orthographic projection maintains parallelism.
 
+Rendering Methods
+
+Wireframe rendering connects 3D points to create a visual representation, akin to building a cube with chopsticks s .
+Scanline renderiLighting and Texturing
+
+Lighting algorithms, such as flat shading, enhance realism by varying illumination based on polygon orientation s s .
+Texture mapping applies surface images to polygons, enriching the visual detail of 3D objects s .
+
+Performance Optimization
+
+Modern graphics processing units (GPUs) are designed to handle complex calculations for rendering, allowing for massive parallel processing of polygons s sng fills polygons
+by calculating pixel intersections row by row, enhancing the visual output
