@@ -1,1 +1,10 @@
 
+the transition from 2D to 3D graphics, emphasizing the need to render 3D objects onto a 2D screen s .
+3D graphics utilize three coordinates (x, y, z) for points, which must be projected onto a 2D plane 
+
+
+3D Projection Techniques
+
+The process of flattening 3D coordinates onto a 2D plane is known as 3D projection, with orthographic and perspective projections being common types s s .
+Perspective projection mimics how parallel lines converge in the real world, while orthographic projection maintains parallelism.
+
