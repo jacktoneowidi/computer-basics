@@ -1,1 +1,27 @@
+Internet Structure
 
+
+-Internet StructuThe internet is a large distributed network that connects devices through local area networks (lan)
+ and wide area networks (wan) managed by Internet Service Providers isp like Comcast and Verizonre.
+
+-Data travels through multiple hops, connecting to regional routers and ultimately reaching the backbone of the internet,
+ which consists of high-bandwidth routers
+
+Data Transmission Protocols
+
+-Data on the internet is sent in small packets, which may be broken down further if the data is large, such as video streams.
+-User Datagram Protocol (UDP) is a simple protocol that allows packets to be sent without ensuring delivery, making it suitable for
+ applications like video chat where speed is prioritized over reliability.
+
+
+Error Handling and Reliability
+
+-UDP includes a checksum for data verification, but it does not provide mechanisms for correcting errors or confirming packet delivery s s .
+-The Transmission Control Protocol (TCP) offers more reliability by sequencing packets and requiring acknowledgments for successful delivery, making it ideal for applications like email s s .
+-TCP can handle out-of-order packets and retransmit lost packets, adjusting its transmission rate based on network conditions 
+
+Domain Name System
+The Domain Name System (DNS) translates human-readable domain names into IP addresses, functioning like a phone book for the internet 
+
+DNS uses a hierarchical structure with top-level domains (TLDs) and lower-level domains to manage over 300 million registered domain names.
+And the  OSI model consists of multiple layers, including the physical layer, data link layer, network layer, transport layer (where TCP and UDP operate), and session layer.
