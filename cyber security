@@ -1,1 +1,9 @@
+Introduction to Cybersecurity
 
+-Cybersecurity is essential to protect against crime and harm in the virtual world, similar to physical security measures in the real worlds.
+-The field evolves rapidly, encompassing techniques to ensure the secrecy, integrity, and availability of computer systems and data.
+Goals of Cybersecurity
+
+Confidentiality Only authorized individuals should access specific data; breaches occur when hackers expose sensitive informations.
+Integrity: Ensures that only authorized users can modify systems and data; attacks on integrity involve unauthorized actions like impersonations.
+Availability: Authorized users must always access their systems; denial of service attacks compromise this goal by overwhelming systems.
