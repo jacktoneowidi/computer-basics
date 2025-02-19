@@ -4,6 +4,24 @@ Introduction to Cybersecurity
 -The field evolves rapidly, encompassing techniques to ensure the secrecy, integrity, and availability of computer systems and data.
 Goals of Cybersecurity
 
-Confidentiality Only authorized individuals should access specific data; breaches occur when hackers expose sensitive informations.
-Integrity: Ensures that only authorized users can modify systems and data; attacks on integrity involve unauthorized actions like impersonations.
-Availability: Authorized users must always access their systems; denial of service attacks compromise this goal by overwhelming systems.
+-Confidentiality Only authorized individuals should access specific data; breaches occur when hackers expose sensitive informations.
+
+-Integrity: Ensures that only authorized users can modify systems and data; attacks on integrity involve unauthorized actions like impersonations.
+
+-Availability: Authorized users must always access their systems; denial of service attacks compromise this goal by overwhelming systems.
+
+Security Challenges and Solutions
+
+-Trust in hardware and software is crucial; malware can compromise security programs s .
+-Reducing implementation errors is vital, and independent verification helps identify vulnerabilities s .
+-Isolation techniques, such as sandboxing applications, limit the impact of compromised programs
+
+
+Access Control
+
+-Access control specifies who can see, modify, and use data through permissions and access control lists.
+-The Bella-Padula model ensures that users cannot access information beyond their clearance level, maintaining secrecy and integrity
+
+
+
+
