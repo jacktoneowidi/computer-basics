@@ -12,3 +12,14 @@ Web Technologies
 -When a user requests a web page, the process involves a DNS lookup to find the corresponding IP address, followed by establishing a TCP connection to a web server s s .
 -The Hypertext Transfer Protocol (HTTP) is used to request and transfer web pages, with status codes indicating the success or failure of these requests
 
+HTML and Web Development
+
+-Hypertext Markup Language (HTML) is used to create web pages, with the first version introduced in 1990 providing basic commands for structuring content s s .
+-Modern HTML (version 5) includes over 100 tags for various elements, and additional technologies like CSS and JavaScript enhance web functionality
+
+
+
+Evolution of Web Browsers
+
+-The first web browser and web server were created by Tim Berners-Lee in 1990, establishing foundational web standards s s .
+-The introduction of the Mosaic web browser in 1993 allowed for graphics to be embedded alongside text, significantly improving user experience
