@@ -1,1 +1,14 @@
+ the Internet vs the World Wide Web. 
+
+
+-The World Wide Web (WWW) is a distributed application that operates on top of the internet, which serves as the underlying 
+ infrastructure for various applications like Skype and Instagram s .
+-The WWW consists of millions of servers and is accessed through web browsers, distinguishing it from the internet itself
+
+
+Web Technologies
+
+-Each web page has a unique address known as a Uniform Resource Locator (URL), which is essential for linking pages together s .
+-When a user requests a web page, the process involves a DNS lookup to find the corresponding IP address, followed by establishing a TCP connection to a web server s s .
+-The Hypertext Transfer Protocol (HTTP) is used to request and transfer web pages, with status codes indicating the success or failure of these requests
 
