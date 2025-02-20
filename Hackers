@@ -9,3 +9,18 @@ There are three types of hackers
 -White hat hackers are ethical hackers who identify and fix security vulnerabilities, often hired by companies
  and governments for security evaluations.
 -Black hat hackers are malicious individuals who exploit vulnerabilities for personal gain, often for monetary reasons
+
+Common Hacking Techniques
+
+-Social engineering is a prevalent method where hackers manipulate users into revealing confidential information, often through phishing emails that lead to fake websites s s .
+-Pretexting involves attackers impersonating trusted individuals to extract sensitive information from victims, demonstrating the effectiveness of research and deception in hacking s .
+-Malware, including ransomware, is often delivered through seemingly harmless attachments, posing significant risks to users' data and systems.
+
+
+Cybersecurity Practices
+
+-Developers should implement bounds checking and input sanitization to prevent buffer overflow and code injection attacks, ensuring that user inputs are treated as potentially dangerous s .
+-Keeping software updated is crucial to protect against zero-day vulnerabilities, which are newly discovered bugs that hackers exploit before patches are available s s .
+-Cyberattacks pose significant economic threats, costing the global economy approximately half a trillion dollars annually, highlighting the importance of robust cybersecurity measures
+
+-Code injection attacks, particularly SQL injection, exploit vulnerabilities in database queries, enabling attackers to manipulate or delete data without needing valid credentials
