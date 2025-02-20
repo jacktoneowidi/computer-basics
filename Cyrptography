@@ -1,1 +1,20 @@
 
+cryptography
+
+-Cryptography is a key aspect of computer security, employing multiple layers of security mechanisms known as defense in depth to protect systems from attacks.
+The term cryptography translates to secret writing involving ciphers that convert plaintext into ciphertext, making it unreadable without a key.
+
+
+Types of Ciphers
+
+-Ciphers can be categorized into substitution ciphers, like the Caesar cipher, which shifts letters in a message, and permutation ciphers, which 
+ rearrange letters based on a grid.
+-The Enigma machine, used by the Nazis, mechanized cryptography with multiple rotors and a plugboard, enhancing complexity beyond simple substitution.
+
+
+Key Exchange and Asymmetric Encryption
+
+-Key exchange algorithms, like Diffie-Hellman, allow secure sharing of keys over public channels without direct transmission of the key itself.
+-Asymmetric encryption, such as RSA, utilizes a public key for encryption and a private key for decryption, ensuring secure communication without sharing secret keys.
+
+
