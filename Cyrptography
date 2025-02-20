@@ -1,6 +1,8 @@
 
 cryptography
 
+-Cryptography is essential for securing online communications, ensuring that sensitive information remains private and protected from unauthorized access 
+
 -Cryptography is a key aspect of computer security, employing multiple layers of security mechanisms known as defense in depth to protect systems from attacks.
 The term cryptography translates to secret writing involving ciphers that convert plaintext into ciphertext, making it unreadable without a key.
 
@@ -16,5 +18,9 @@ Key Exchange and Asymmetric Encryption
 
 -Key exchange algorithms, like Diffie-Hellman, allow secure sharing of keys over public channels without direct transmission of the key itself.
 -Asymmetric encryption, such as RSA, utilizes a public key for encryption and a private key for decryption, ensuring secure communication without sharing secret keys.
+
+
+
+
 
 
