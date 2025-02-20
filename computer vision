@@ -1,1 +1,24 @@
 
+compiter vision 
+
+-Vision is the highest bandwidth sense, providing extensive information about the world and guiding actions.
+-Computer scientists have pursued computer vision for over fifty years, aiming to enable computers to understand digital images and videos.
+
+Basics of Image Representation
+
+-Digital images are stored as grids of pixels, with each pixel defined by an RGB value, representing combinations of red, green, and blue.
+-A simple computer vision algorithm can track colored objects by comparing RGB values to find the closest match.
+
+
+Edge Detection and Convolution
+
+-To identify features larger than a pixel, algorithms analyze small regions of pixels, known as patches s .
+-Edge detection can be performed using kernels, which apply mathematical operations to pixel values to identify significant color differences s s .
+-The Prewitt Operators are examples of kernels used to enhance vertical and horizontal edges in images
+
+
+Applications of Computer Vision
+
+-Computer vision algorithms can pinpoint facial landmarks, enabling emotion recognition and context-sensitive responses.
+-Applications extend to biometric recognition, such as smartphones unlocking via facial recognition, and interpreting body language and gestures.
+-The field is rapidly evolving, with breakthroughs in technology enhancing the capabilities of computer vision systems. 
