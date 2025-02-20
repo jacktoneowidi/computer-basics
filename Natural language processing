@@ -5,3 +5,27 @@ Natural Language Processing NLP
 
 -Natural Language Processing (NLP) is an interdisciplinary field that combines computer science and linguistics, aimed at enabling computers to understand human language.
 -Unlike programming languages, which have strict syntax and limited vocabulary, natural languages are complex, featuring diverse vocabularies, multiple meanings, and various accents.
+
+Key Components of NLP
+
+-Parts of Speech: Understanding the nine fundamental types of English words (nouns, pronouns, articles, verbs, adjectives, adverbs, prepositions, conjunctions, interjections) is crucial for NLP.
+-Phrase Structure Rules: These rules define how sentences are constructed, allowing computers to parse sentences into manageable parts s . For example, a sentence can consist of a noun phrase followed by a verb phrase.
+
+-Parse Trees - These structures tag each word with its likely part of speech and illustrate sentence construction, facilitating easier processing of language.
+-Text Generation: NLP systems can generate natural language text by utilizing structured data and semantic relationships. 
+
+
+Machine Learning in NLP
+
+-Modern chatbots and dialogue systems leverage machine learning, using vast datasets of human conversations to improve their responses.
+-This shift from rule-based systems to machine learning has enhanced the sophistication of chatbots s .
+-Language Models: These models improve transcription accuracy by predicting likely word sequences, thus aiding in speech recognition.
+
+Speech Synthesis
+Speech synthesis involves converting text into spoken words, utilizing phonetic components to produce more natural-sounding speech s . While current synthesized voices are improving, they still lack the nuance of human speech .
+
+Speech Recognition
+
+
+-Speech recognition technology has evolved significantly since its inception, with early systems like Bell Labs' "Audrey" recognizing only digits s . Modern systems utilize deep neural networks for improved accuracy.
+-Spectrograms: These visual representations of sound help in distinguishing different vowel sounds, crucial for accurate speech recognition.
