@@ -1,1 +1,20 @@
 
+robots
+-Robots are defined as machines capable of performing a series of actions automatically, guided by computer control, regardless of their appearance.
+-The term "robot" originates from a 1920 Czech play, derived from the Slavic word for forced labor, indicating a historical context of automation and 
+ servitude.
+
+
+Development of Robotics
+
+-The first computer-controlled machines emerged in the late 1940s, leading to the development of CNC machines that revolutionized manufacturing by automating complex tasks.
+-The robotics industry began with the Unimate, the first commercial industrial robot, which was used by General Motors in 1960
+
+Challenges in Robotics
+
+-Despite advancements, robots struggle with tasks that humans find trivial, such as walking or manipulating objects, highlighting ongoing challenges in robotics research .
+-Self-driving cars exemplify the complexity of robotic systems, requiring sophisticated sensing and computer vision to navigate environments safely.
+
+Ethical Considerations
+-The development of lethal autonomous weapons raises significant ethical concerns, as these systems could operate without human judgment in critical situations s s .
+-Isaac Asimov's fictional "Three Laws of Robotics" serve as a moral framework for discussions about robot ethics, emphasizing the need for responsible design and application of robotic technologies
